@@ -65,7 +65,7 @@ QQ手游公众号|游戏中心首页|游戏中心活动页
 5. 发布现网；
 6. 手机验证活动GIF演示如下：
 
-![活动演示](./public/img/actTest.gif)
+<img width="250" src="./public/img/actTest.gif" alt="活动演示">
 
 ---
 ## 活动配置流程图
