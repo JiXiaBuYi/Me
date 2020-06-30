@@ -1,6 +1,11 @@
 [简历地址](https://github.com/MrQingchun/lpy/blob/master/简历.md)
 ---
 # 开放平台系统
+
+系统预览
+
+![活动配置流程图.png](./public/img/template-act.gif)
+
 ## 系统介绍
 ![系统划分](./public/img/system.png)
 ### 前言
